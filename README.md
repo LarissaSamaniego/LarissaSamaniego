@@ -9,7 +9,7 @@ Este proyecto es parte del Módulo 5 de BEDU. El objetivo principal es desarroll
 
 **Larissa Samaniego**
 
-Este proyecto fue desarrollado como parte del programa BEDU, Módulo 4.
+Este proyecto fue desarrollado como parte del programa BEDU, Módulo 5.
 
 ---
 
